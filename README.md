@@ -1,2 +1,2 @@
-# WGU-D298-T2-HTML-exercise-files
- Exercise files for HTML module
+# html-exercise-files
+Exercise files for WGU D298 Task 2.
